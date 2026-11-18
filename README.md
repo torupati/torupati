@@ -4,7 +4,7 @@ Sensor fusion, state estimation and machine learning engineer (GNSS / MEMS IMU /
 I turn probabilistic models, from Kalman filters to VAEs, into real-world systems.
 
 ## Start here
-- [study_kalman_filter](https://github.com/torupati/study_kalman_filter): Kalman filter to IMU/GNSS EKF and factor graph optimization, derived and tested
+- [IMU_GNSS_EKF](): Kalman filter to IMU/GNSS EKF and factor graph optimization, derived and tested
 - [gnssrawmeas](https://github.com/torupati/gnssrawmeas): GNSS raw measurement analysis (RINEX, carrier phase, widelane)
 - [sigmemo](https://github.com/torupati/sigmemo): noise models for sensors (PSD, random walk, Allan variance)
 - [cmla](https://github.com/torupati/cmla): classical ML algorithms (GMM, HMM) with documentation
